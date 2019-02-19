@@ -140,7 +140,7 @@ hr {
 /* Portretele */
 
 
-#gallery {
+.modal-container {
   display: -ms-flexbox; /* IE10 */
   display: flex;
   -ms-flex-wrap: wrap; /* IE10 */
